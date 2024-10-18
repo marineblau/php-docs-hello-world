@@ -1,4 +1,3 @@
 <?php
 
-echo "Hello World!";
-echo "commit";
+echo "Hello Azure World!";
